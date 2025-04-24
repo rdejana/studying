@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"studying/stacks"
+	"studying/save/stacks"
 )
 
 //https://www.youtube.com/watch?v=vsfcpSoqJDc&list=PLMPSjUOg8tP2wSulRK6aai19kdFJelT-P&index=3
